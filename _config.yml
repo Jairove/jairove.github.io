@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Jairo Velasco
-tagline:             Blog
+title:               Blog
+tagline:             Jairo Velasco
 url:                 http://jairove.github.io
 paginate:            1
 baseurl:             ""
