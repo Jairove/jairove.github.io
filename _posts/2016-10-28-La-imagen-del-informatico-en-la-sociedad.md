@@ -7,7 +7,7 @@ Un sótano tenuemente iluminado por el resplandor de los monitores, se escucha e
 
  ![alt text][logo]
 
-[logo]: https://dl.dropboxusercontent.com/u/41505363/Blog_images/image.jpg “Hackerman”
+[logo]: https://dl.dropboxusercontent.com/u/41505363/Blog_images/image.jpg
 
 Podría ser una escena de cualquier película de finales del pasado siglo o principios del actual, en esas décadas en que al programador informático se le cedió el testigo de genio incomprendido que venían arrastrando tradicionalmente científicos, matemáticos e inventores. El novedoso auge de la computación personal trajo ese paso del científico loco al informático loco, y esa visión quedó instalada en la sociedad.
 
