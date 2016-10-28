@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Algunos pensamientos sobre Pokemon GO y la realidad virtual
+title: La imagen del informático en la sociedad
 ---
 
-Jugar Pokémon Go es muy divertido y tiene todos los ingredientes para ser altamente adictivo, es simple, competitivo, intuitivo, lento en cuanto a progreso, y a medida que se juega más las recompensas disminuyen y la dificultad crece. Es esta dosificación de logros lo que permite lograr la implicación del jugador, el concepto es simple, darle lo suficiente para que no se dé por vencido y siga jugando, pero no tanto como para que lo tenga todo y no le apetezca continuar. 
+Un sótano tenuemente iluminado por el resplandor de los monitores, se escucha el frenético tecleo de quién es presentado como un genio loco. Se ajusta ligeramente las gafas mientras introduce códigos en un terminal verde, probablemente lleve varios días sin dormir y otros tantos sin ver una ducha pero no parece darse cuenta de su desaliñado aspecto, el futuro de la civilización podría estar en sus manos y no hay tiempo para banalidades.
 
-La mecánica de juego es siempre la misma, por lo que se puede iterar hasta niveles infinitos; básicamente el juego consiste en hacer lo mismo pero necesitando hacerlo más y mejor para seguir subiendo de nivel. 
+ ![alt text][logo]
 
-> Capturar Pokémon está directamente relacionado con conceptos ancestrales inherentes al ser humano como son la caza y la recolección.
+[logo]: https://dl.dropboxusercontent.com/u/41505363/Blog_images/image.jpg “Hackerman”
 
-Sería interesante dejar aparte los detalles del juego para centrarse en el impacto social que ha generado; nos encontramos en un momento en el que la sociedad tiende a asimilar novedades muy rápido, el hecho de estar inmersos directamente en una corriente de cambio muy veloz no nos deja espacio para llegar a observar de una forma más objetiva la relevancia e inmensidad de lo ocurrido en las últimas décadas. 
+Podría ser una escena de cualquier película de finales del pasado siglo o principios del actual, en esas décadas en que al programador informático se le cedió el testigo de genio incomprendido que venían arrastrando tradicionalmente científicos, matemáticos e inventores. El novedoso auge de la computación personal trajo ese paso del científico loco al informático loco, y esa visión quedó instalada en la sociedad.
 
-En un futuro cercano lo virtual no será para nosotros menos importante o menos tangible que lo real, hasta alcanzar un punto en que no exista una diferenciación clara entre lo material y lo tácito. Observando la historia puede comprobarse como siempre que se instala en la sociedad un avance tecnológico relevante surge un movimiento contrapuesto que se presenta pesimista y detractor, bien sea por temor al cambio o por cuestiones más concretas. En cualquier caso la masificación de las realidades virtual y aumentada está a la vuelta de la esquina y trae consigo un gran número de cuestiones.
+Muchas de las propiedades de ese estigma han ido evolucionando con el tiempo, ahora el sótano está mejor iluminado, se escuchan clics intercalados entre el tecleo, y el futuro que está en las manos del informático es como mucho el de la empresa que lo emplea. El aspecto desaliñado permanece pero el genio se ha convertido en un nerd que se preocupa en exceso por detalles que el resto de mortales no comprende, claro que él tampoco tiene interés en que la sociedad lo entienda, hace tiempo que quedó constancia de sus nulas habilidades sociales.
 
-¿*Es menos real un objeto virtual por ser inmaterial? ¿Son menos auténticas las emociones y sensaciones producidas por entidades virtuales*? Son preguntas interesantes que probablemente carezcan de respuestas objetivas.
+Otra posibilidad es que el *nerd* haya tenido una idea genial que haya generado beneficios por millones de dólares, en ese caso cambiamos el sótano por una lujosa oficina con toboganes y consolas de videojuegos en las salas comunes, pero la despreocupación por su imagen continúa, así como su incapacidad para relacionarse de una manera considerada normal, poco importa que su aventura como emprendedor pueda involucrar reuniones con importantes ejecutivos de *Sillicon Valley*. En este caso es la sociedad la que observa asombrada como ese *friki* que no logran comprender ha podido generar semejante impacto socioeconómico.
+
+¿Realmente se asemeja esto a la realidad? Los estereotipos han tenido necesariamente unos fundamentos basados en experiencias reales, *Zuckerberg* va a trabajar en bermudas y chancletas, *Stallman* no parece haber encontrado aún una ducha que se ajuste a los cánones del software libre, ni una peluquería, las oficinas de Google parecen una guardería para adultos, la personalidad de genio incomprendido de Steve Jobs ha ayudado a llenar estantes de librerías, y a *Bill Gates* le ha costado décadas no parecer un geek que sólo ve la luz del sol cuando se acaba la comida y no funciona el reparto a domicilio. Sin embargo estos son casos puntuales, no obstante muy visibles y mediáticos.
+
+Además, la imagen del informático que se ha instaurado en la sociedad tiende a favorecer la predominancia masculina, y eso provoca que se pierda mucho talento en la profesión.
