@@ -41,7 +41,7 @@ while i<CHARACTERS_LEN*CHARACTERS_LEN:
 Ya sólo queda ejecutarlo volcando la salida a un fichero y esperar, como no me apetecía probar las posibles consecuencias de enviar miles de peticiones a Twitter con mi IP, empleé una VPN (aunque al final parece que las protecciones contra ataques DOS no saltaron si es que existen).
 
 Esta fue la salida:
-{% highlight%}
+{% highlight python %}
 AVAILABLE USERNAME:	 jairoua
 AVAILABLE USERNAME:	 jairoxa
 AVAILABLE USERNAME:	 jairoxb
@@ -95,7 +95,7 @@ AVAILABLE USERNAME:	 jairouy
 AVAILABLE USERNAME:	 jairogz
 AVAILABLE USERNAME:	 jairoiz
 AVAILABLE USERNAME:	 jairowz
-{% highlight python %}
+{% endhighlight %}
 
 Tras revisarlos finalmente me quedé con **@jairoev**, que de alguna manera es parecido a mi ansiado **@jairove**.
 
